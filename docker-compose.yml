@@ -1,6 +1,6 @@
 version: '3.7'
 services:
-  node-app:
+  java-app:
     build: .
     image: db-api-for-docker-app:1.0
     ports:
